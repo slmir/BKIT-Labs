@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lab_work_BKIT_1_2
+	//commit
 {
 	class ProgramLR1
 		{
